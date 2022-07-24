@@ -10,7 +10,7 @@ Flex 布局的全称为 CSS Flexible Box Layout Module，是 W3C 提出的一种
 
 ### Flexbox 原理演示
 
-[A Visual Guide to CSS3 Flexbox Properties](https://lhammer.cn/Flexbox/ ":include :type=iframe width=100% height=791px")
+[A Visual Guide to CSS3 Flexbox Properties](https://lhammer.cn/Flexbox ":include :type=iframe width=100% height=791px")
 
 > **感谢：**以上演示 Fork 自[xluos](https://github.com/xluos)的[Flexbox 演示站](https://xluos.github.io/demo/flexbox/)~
 
@@ -278,7 +278,7 @@ align-items: flex-start | flex-end | center | baseline | stretch;
 
 > - flex-start：交叉轴的起点对齐
 > - flex-end：交叉轴的终点对齐
-> - cente：交叉轴的中心对齐
+> - center：交叉轴的中心对齐
 > - baseline：项目第一行文字的基线对齐
 > - stretch：默认值，项目未设置固定高度时，将占满整个容器
 
